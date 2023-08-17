@@ -1,0 +1,2 @@
+Descript에 있는 Roman emperor’s cipher를 해석하면 로마황제의 암호라는 뜻이다.
+즉 로마황제인 카이사르 암호라는 것을 알 수 있다.
