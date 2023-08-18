@@ -1,0 +1,1 @@
+hex editor로 확인하거나 strings 명령어로 확인 하면 플래그 나옴.

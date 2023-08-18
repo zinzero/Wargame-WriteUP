@@ -1,0 +1,12 @@
+Descript에 있는 "하얀공간"에 집중해야 한다.
+하얀 = white
+공간 = space로
+white space language에 관한 문제였다.
+
+온라인 decode를 이용하면 플래그가 나오지 않아서
+직접 툴을 설치 해서 했다.
+
+윈도우 : sudo apt-get install stegsnow
+맥 : brew install snow
+
+$ snow[stegsnow] -C flag.txt를 하면 플래그를 얻을 수 있다.

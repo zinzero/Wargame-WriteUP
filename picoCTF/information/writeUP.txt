@@ -1,0 +1,6 @@
+문제 제목이 information 정보인 것과
+Descripiton에 설명에 따라 
+이미지 파일의 meta 데이터에 답이 있지 않을까 생각했다.
+strings 명령어로 나온 메타데이터 중 
+resource 부분을 Base64로 디코드 하면
+플래그를 획득 할 수 있다.
