@@ -1,0 +1,5 @@
+헥사, stegOnlin, binwalk, strings, cat 뭘 해도 나오는게 없었다.
+hint : dimensions, dimensions, everything is in dimensions.를 참고하면
+차원을 강조하므로 이미지 파일의 크기를 바꾸면 플래그를 얻을 수 있다고 생각했다.
+https://blog.cyberhacktics.com/hiding-information-by-changing-an-images-height/
+해당 블로그 내용을 참고해서 Hex Editor를 이용해서 크기를 바꿔주니 플래그를 획득했다.

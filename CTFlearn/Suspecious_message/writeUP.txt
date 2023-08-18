@@ -1,0 +1,3 @@
+playfair Cipher 문제다
+문자열과 주어진 사진을 이용해서
+playfair decoder에 넣고 돌리면 플래그를 얻을 수 있다.
