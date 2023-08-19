@@ -1,0 +1,5 @@
+img 파일을 file로 검사해보면
+comment: "CTFlearn{CTFIsEasy!!!}"로
+플래그 형태로 된 문자열이 나오지만 당연히 정답은 아니다.
+이 comment말고도 다른 comment가 있는데 생긴 것이 base64처럼 생겨서
+decode했더니 플래그를 얻을 수 있었다.

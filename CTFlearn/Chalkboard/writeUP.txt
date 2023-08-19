@@ -1,0 +1,2 @@
+이미지 파일을 hex로 보면 또 다른 Description을 볼 수 있다.
+이 Description에 따라 풀면 해결

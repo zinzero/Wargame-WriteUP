@@ -1,0 +1,7 @@
+이미지 파일을 받으면 리눅스 팽귄이 나온다.
+file로 검사하니 comment가 있었다.
+해당 comment를 decode하니 password가 나왔다.
+password를 쓰기 위해서는 파일이 필요하다 생각해서
+binwalk를 돌렸다. binwalk돌리면 zip파일이 나오고 
+이 파일 압축 해제 할 때 password를 사용했다.
+해제하면 플래그가 나온다.

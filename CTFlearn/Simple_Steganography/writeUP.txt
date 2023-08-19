@@ -1,0 +1,7 @@
+keyword 찾기가 어려웠다.
+찾고나면 허무한데 왜냐하면 keyword처럼 안 생겼다...
+https://futureboy.us/stegano/decinput.html
+
+steganogrphic Decoder에 파일과 keyword를 같이 넣으면
+문자열이 나온다. 이 문자열을 디코딩하면 플래그를 얻을 수 있다.
+base64

@@ -1,0 +1,9 @@
+https://zinzero22.tistory.com/29
+
+사진을 보면 png로 되어 있는데 hex로 헤더를 보면
+jpg다 아래로 내려서 hex값을 더 살펴보면
+50 4B 03 04 zip 파일을 찾을 수 있다.
+그래서 binwalk로 돌려서 파일 카빙하고
+경로 따라 가면 쭉 가면 jpeg 파일이 있는데
+이 파일은 file명령어로 확인 하면 그냥 data로 나온다.
+그래서 strings으로 확인하면 플래그를 얻을 수 있다.

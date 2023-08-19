@@ -1,0 +1,6 @@
+https://noxtal.com/
+
+문제의 Description을 살펴보면 Application과 memory에
+볼드처리 된 것을 볼 수 있다.
+따라서 개발자 도구의 Application부분을 살펴보면
+플래그를 얻을 수 있다.

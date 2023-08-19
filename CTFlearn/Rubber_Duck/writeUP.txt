@@ -1,0 +1,5 @@
+해당 파일을 
+file
+strings
+hex Editor 중
+하나로 확인 하면 플래그를 얻을 수 있다.
