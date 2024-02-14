@@ -1,6 +1,5 @@
 # writeUP
-웹상에 공개된 CTF 문제들 writeUP
-
+지금까지 해결한 문제을 풀이 작성
 
 ### DreamHack
 https://dreamhack.io/
