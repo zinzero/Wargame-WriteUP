@@ -10,3 +10,11 @@ https://ctflearn.com/dashboard
 ### picoCTF
 https://picoctf.org/
 
+### Yes solve No writUP
+- DreamHack/patch
+- DreamHack/rev-basic-0
+- DreamHack/rev-basic-1
+
+### No solve
+
+
