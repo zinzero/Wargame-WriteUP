@@ -1,5 +1,5 @@
 # writeUP
-지금까지 해결한 문제을 풀이 작성
+지금까지 해결한 문제 풀이 작성
 
 ### DreamHack
 https://dreamhack.io/
@@ -14,6 +14,7 @@ https://picoctf.org/
 - DreamHack/patch
 - DreamHack/rev-basic-0
 - DreamHack/rev-basic-1
+- DreamHack/dreamhack-tools-cyberchef
 
 ### No solve
 
