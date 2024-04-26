@@ -1,21 +1,11 @@
-# writeUP
-지금까지 해결한 문제 풀이 작성
-
+# Wargame-WriteUP 
 ### DreamHack
-https://dreamhack.io/
+https://dreamhack.io/wargame
 
 ### CTFlearn
 https://ctflearn.com/dashboard
 
 ### picoCTF
 https://picoctf.org/
-
-### Yes solve No writUP
-- DreamHack/patch
-- DreamHack/rev-basic-0
-- DreamHack/rev-basic-1
-- DreamHack/dreamhack-tools-cyberchef
-
-### No solve
-
+https://play.picoctf.org/practice
 
